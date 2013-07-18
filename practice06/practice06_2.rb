@@ -7,10 +7,10 @@ require 'sqlite3'
 # BREAK_COUNT = フォロー・フォロワーの取得したい値
 # 以下はAPI取得用のキー
 BREAK_COUNT = 5
-CONSUMER_KEY = 'FFhWK7URx8wAxlJBps81eQ'
-CONSUMER_SECRET = 'QrefrWTzwXNNaeZzVQfkxiLM0bBmMkpz7ds6MAm0z6k'
-OAUTH_TOKEN = '1585069392-mjPdkojcRi1Q4rgSRyt901gWQgPbOKi0lcUzwh5'
-OAUTH_TOKEN_SECRET = 'GLHnkUukZqE2ooiEou0m2WYzPuGjDzloPvpqQi7A9G8'
+CONSUMER_KEY = ''
+CONSUMER_SECRET = ''
+OAUTH_TOKEN = ''
+OAUTH_TOKEN_SECRET = ''
 
 # キーを用いツイッタークライアントへ接続
 client = Twitter::Client.new(
