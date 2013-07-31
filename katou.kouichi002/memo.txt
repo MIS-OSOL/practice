@@ -1,0 +1,9 @@
+Diamond
+・javaっぽさ(?)を出すために、StringBuilderを使用
+  ・String を "+" で結合すると処理コストがかかるので、StringBufferやStringBuilderを使う
+
+
+Diamond2
+・1行分のchar配列を用意し、スペース ' ' で初期化
+・必要なところに '*' を追加
+・1行ずつ出力
