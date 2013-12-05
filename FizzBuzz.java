@@ -1,5 +1,5 @@
 /**
- * test
+ * create testing
  * Fizz Buzz問題
  * 1～30の値を出力する。ただし、
  * 3の倍数ならばFizz
